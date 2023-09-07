@@ -11,9 +11,9 @@ Welcome to my ridiculously simple web scraping -> Retrieval Augmented Generation
 Getting it going is fairly easy. I used `pipenv` but use whatever environment you'd like.
 
 1. cd milvus
-2. sudo docker compose up
+2. sudo docker compose up -d
 3. cd ..
-4. pip install
+4. pipenv install
 5. cp .env.sample .env
 6. Fill in your OpenAI token and Apify token
 7. Open spider.py and fill in the URL you want to crawl
