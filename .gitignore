@@ -1,6 +1,9 @@
 # Milvus Docker Location
 milvus/volumes/
 
+# Flagged Content
+flagged/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
