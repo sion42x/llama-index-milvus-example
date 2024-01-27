@@ -1,6 +1,8 @@
 # llama-index-milvus-example
 Open AI APIs with Llama Index and Milvus Vector DB for RAG testing
 
+Check it out with explanations here: https://www.youtube.com/watch?v=Dkc2Y-S6vOY&t=1s
+
 Welcome to my ridiculously simple web scraping -> Retrieval Augmented Generation (RAG) example. This example walks through:
 
 * Scraping a website with Apify webcrawler (requires a free account)
